@@ -1,2 +1,4 @@
 # apply_watermark
-Add a watermark to any photo you would like.
+Add a watermark to any photo that you would like.
+
+
